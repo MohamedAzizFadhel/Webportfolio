@@ -6,12 +6,26 @@ theme = "hugo-theme-shell"
 [Params]
     [Params.Terminal]
     schema = "monokai"
-
+    userName = "fadh"
+    pcName = "pc"
+    workDir = "whoami"
+    profile = "profile.txt"
+    
+    description = """
+    ICT engineering student and a cloud security engineer wannabe 
+    CTF player 
+    Passionate about Ethical Hacking and Penetration Testing 
+  
+  """
+    
+    
+ 
     [Params.Tree]
     use = true
+    folderName = "Reach_Me"
     files = [
-        ["C/C++", "https://www.example.com/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
+        ["Linkedin - ", "https://www.linkedin.com/in/mohamed-aziz-el-fadhel-b85431233/"],
+        ["TryHackMe - ", "https://tryhackme.com/p/MoFahdel"],
+        ["Github -", "https://github.com/MohamedAzizFadhel"],
+        ["Email - ", "mohamedaziz.elfadhel@etudiant-enit.utm.tn"]
     ]
