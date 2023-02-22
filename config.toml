@@ -26,6 +26,8 @@ theme = "hugo-theme-shell"
     files = [
         ["Linkedin - ", "https://www.linkedin.com/in/mohamed-aziz-el-fadhel-b85431233/"],
         ["TryHackMe - ", "https://tryhackme.com/p/MoFahdel"],
+        ["LetsDefend - ", "https://app.letsdefend.io/public-profile/user/MoFahdel/05d81f9b-385e-47fd-9ffc-5186caf9f649"],
         ["Github -", "https://github.com/MohamedAzizFadhel"],
         ["Email - mohamedaziz.elfadhel@etudiant-enit.utm.tn ", "https://master--mohamedazizfadhel.netlify.app/"]
+        
     ]
